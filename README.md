@@ -120,6 +120,3 @@ The goal of this repository is to:
 ## Author
 Brunda Addagalla
 B.Tech CSE Student
-
-Brunda Addagalla  
-B.Tech Computer Science and Engineering Student
